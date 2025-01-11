@@ -1,6 +1,15 @@
 # CabShare App (In progress...)
+
+## NOTE 
+
+#### I have created this private repository to showcase my work using information and screenshots. I have created another repository to upload the code for this application. If you want access to it send me an email at ankitbawanthade123@gmail.com. It is made private because it contains confidential information.
+
 ## Overview
-CabShare is a mobile application designed to help college students coordinate and share cabs to the airport during vacation periods. The app simplifies the process of finding and connecting with peers traveling to the same destination, enabling users to save costs, reduce environmental impact, and improve travel convenience. The app features a streamlined interface, real-time chat, and scheduling functionalities to ensure seamless coordination.
+CabShare is a mobile application designed to help college students coordinate and share cabs to the airport during vacation periods. The app simplifies finding and connecting with peers traveling to the same destination, enabling users to save costs, reduce environmental impact, and improve travel convenience. The app features a streamlined interface, real-time chat, and scheduling functionalities to ensure seamless coordination.
+
+## ScreenShots
+
+
 
 ## Key Features
 ### 1. User Authentication:
